@@ -1,2 +1,2 @@
 # FA-GPA-Assistant
-A Flutter-based GPA Calculator app to track and plan academic performance. Features GPA prediction, letter grade conversion, and summer course planning with a responsive UI. Built with Flutter for seamless use on mobile and tablet devices.
+FA-GPA-Assistant: A Flutter app for Future Academy students to calculate, predict, and track GPAs. Features GPA prediction, letter grade conversion, and summer course planning. Responsive design for all devices. Built with Flutter Framework.
